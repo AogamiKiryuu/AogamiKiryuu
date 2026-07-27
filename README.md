@@ -142,7 +142,7 @@ const faqih = {
 |---------|-------------|
 | 🎓 CBT System | Computer Based Test System for Satpol PP Kota Bogor |
 | 🤖 Radar UMKM Bogor | AI Prediction using Random Forest & Logistic Regression |
-| 🌐 REST API Boilerplate | FastAPI + PostgreSQL + JWT + Docker |
+| 🧩 Nikke Mini Puzzle | Mini Games For Termius Event That Can Automatically Answer The Puzzle |
 
 ---
 
