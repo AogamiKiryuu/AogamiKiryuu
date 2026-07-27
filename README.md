@@ -128,9 +128,11 @@ const faqih = {
 
 ---
 
-# 🧙 Frieren Corner
+# ◾◽🐳 Skadi Corner
 
-> _(Add your favorite Frieren artwork here later.)_
+<p align="center">
+  <img src="./asset/skadi-sing.gif" width="85%" alt="Frieren"/>
+</p>
 
 ---
 
